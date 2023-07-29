@@ -1,0 +1,62 @@
+h2{
+    color:blue;
+    font-size: 60px;
+    background: red;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    background-color: blue;
+    font-size: 35px;
+}
+
+/* main start */
+#main{
+    width: 1170px;
+    height: 1000px;
+    background: red;
+    border:1 red;
+    
+
+}
+
+/* one */
+.one{
+    width: 1170px;
+    height: 300px;
+    background: green;
+}
+
+.one_1{
+    float: left;
+    width: 390px;
+    height: 300px;
+    background: rgb(0, 0, 0);
+}
+
+.one_2{
+    float: left;
+    width: 390px;
+    height: 300px;
+    background: rgb(0, 76, 82);
+}
+
+.one_3{
+    float: left;
+    width: 390px;
+    height: 300px;
+    background: rgb(98, 3, 69);
+}
+
+/* two */
+.two{
+    width: 1170px;
+    height: 300px;
+    background: rgb(214, 18, 244);
+}
+/* three */
+.three{
+    width: 1170px;
+    height: 300px;
+    background: rgb(0, 217, 255);
+}
